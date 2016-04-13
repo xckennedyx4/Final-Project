@@ -1,6 +1,5 @@
 # Final-Project
 ## Simple activity Indicator for you Web App
-============================================
 
 ### Installation
 
